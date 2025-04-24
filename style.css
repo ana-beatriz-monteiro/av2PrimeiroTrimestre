@@ -10,6 +10,12 @@ header{
     text-decoration: none;
 }
 
+header nav a{
+    color:var(--cor-texto);
+    margin-right: 20px;
+    text-decoration: none;
+}
+
 main .conteudo{
     width: 70%;
     display: flex;
